@@ -1,4 +1,5 @@
 store manager demo link: https://drive.google.com/file/d/1vAQXQOCuIXVs9gnWkEepaiHPVmt5YnXa/view?usp=drivesdk
+store manager documentation: https://drive.google.com/file/d/1isgaVOiUGdL1HwowSrQDukDdOPI6WAQ8/view?usp=drivesdk
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
